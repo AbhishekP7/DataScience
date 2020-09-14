@@ -1,0 +1,12 @@
+Metadata-Version: 1.2
+Name: feature-engineering-package
+Version: 0.1.0
+Summary: A simple package with all basic files in the structure
+Home-page: UNKNOWN
+Author: Abhishek R
+Author-email: abhishek@pluto7.com
+License: UNKNOWN
+Description: #This is a simple python package with basic necessary file structure
+        
+Platform: UNKNOWN
+Requires-Python: >=3.7

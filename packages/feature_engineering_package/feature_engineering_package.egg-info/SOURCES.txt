@@ -1,0 +1,10 @@
+README.md
+setup.py
+feature_engineering_package/__init__.py
+feature_engineering_package/file_operations.py
+feature_engineering_package/task.py
+feature_engineering_package.egg-info/PKG-INFO
+feature_engineering_package.egg-info/SOURCES.txt
+feature_engineering_package.egg-info/dependency_links.txt
+feature_engineering_package.egg-info/requires.txt
+feature_engineering_package.egg-info/top_level.txt
